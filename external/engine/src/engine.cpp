@@ -1,5 +1,6 @@
 #include <rpg_engine/engine.h>
 #include <iostream>
+#include <glm/glm.hpp>
 
 void RPGEngine::PrintTestCmake()
 {

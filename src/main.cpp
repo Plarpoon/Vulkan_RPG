@@ -1,5 +1,5 @@
 #include <iostream>
-#include <rpg_engine/engine.h>
+#include <game_engine/engine.h>
 #include <glm/glm.hpp>
 
 int main()
